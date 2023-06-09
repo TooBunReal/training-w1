@@ -1,4 +1,3 @@
-### PWN SEMINAR 
 ## 1. Giới thiệu về biểu diễn hệ nhị phân 
 # Giới Thiệu
 - Là một hệ đếm dùng hai ký tự để biểu đạt một giá trị số bằng tổng số các lũy thừa của 2.
@@ -22,3 +21,11 @@
 
 ![image](https://github.com/TooBunReal/training-w1/assets/89735990/35e2c67a-6d8b-4249-889d-a64ec03996a7)
 
+# Biểu Diễn Số
+- Bit cao nhất (bit trái nhất) được sử dụng để biểu diễn dấu của số (0 là dương, 1 là âm)
+- Unsigned
+  + ``0000 1101`` = ``13``
+- Signed  
+  + Phương Pháp Bù 2 ( Đảo Bit, Cộng 1 )
+  + ```0000 1101``` -> ```1111 0010``` -> ```1111 0011``` -> ```-13```
+## 2.Sự biểu diễn của Hexadecimal và Bytes
