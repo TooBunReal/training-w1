@@ -11,7 +11,7 @@
   # Mối Tương Quan Với Các Hệ Cơ Số 
 - Base2 -> Base10 
 
-![image](https://github.com/TooBunReal/training-w1/assets/89735990/a3c0e92c-16f1-4b6a-af69-d23b4c0fa48d)
+![image](https://user-images.githubusercontent.coma3c0e92c-16f1-4b6a-af69-d23b4c0fa48d)
 
 - Base10 -> Base2 
 
