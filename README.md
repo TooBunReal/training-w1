@@ -37,7 +37,26 @@
 ![image](https://github.com/TooBunReal/training-w1/assets/89735990/35c02387-c98a-4c6a-871a-f5ff2f364c91)
 
   # Cách Máy Tính Lưu Trữ Và Biểu Diễn Dữ Liệu Trong Bộ Nhớ
+- Theo như kiến trúc máy tính thông thường, máy tính lưu trữ dữ liệu theo các ô nhớ có địa chỉ duy nhất.
+- Các ô nhớ được sắp xếp một cách cố định theo thứ tự liên tiếp với địa chỉ là một con số thường ở dạng base10 hoặc base16.q
+- Máy tính lưu trữ và biểu diễn dữ liệu trong bộ nhớ theo các đơn vị lưu trữ như byte, word, double word, hay quad word.
 
+![image](https://github.com/TooBunReal/training-w1/assets/89735990/e4924f32-985f-4ec5-879f-bf0e8bc8533b)
+
+- Word là một đơn vị lưu trữ phổ biến được dùng trong kiến trúc máy tính.
+- Độ dài của một word có thể khác nhau đối với các kiến trúc máy tính khác nhau (ví dụ: 16 bit, 32 bit, 64 bit).
+- Dưới đây sẽ là minh họa về cách một bộ nhớ file 8 byte
+
+| Address | Value |
+| :---:   | :---: |
+| 0x00    | AA   | 
+| 0x01    | 30   | 
+| 0x02    | 24   | 
+| 0x03    | 3C   | 
+| 0x04    | 5B   | 
+| 0x05    | 9H   | 
+| 0x06    | 12   | 
+| 0x07    | 7E   | 
 
 
 
