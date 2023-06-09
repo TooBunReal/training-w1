@@ -29,3 +29,15 @@
   + Phương Pháp Bù 2 ( Đảo Bit, Cộng 1 )
   + ```0000 1101``` -> ```1111 0010``` -> ```1111 0011``` -> ```-13```
 ## 2.Sự biểu diễn của Hexadecimal và Bytes
+  # Sự Tương Quan
+- Đơn vị lưu trữ cơ bản của máy tính là Bytes ( 1 byte = 8 bits )
+- Một số hexadecimal được biểu diễn bởi 4 bits ( nữa bytes )
+-> ta có thể biểu diễn 1 byte bằng 2 số hexacimal
+
+![image](https://github.com/TooBunReal/training-w1/assets/89735990/35c02387-c98a-4c6a-871a-f5ff2f364c91)
+
+  # Cách Máy Tính Lưu Trữ Và Biểu Diễn Dữ Liệu Trong Bộ Nhớ
+
+
+
+
