@@ -48,5 +48,16 @@
 - Dưới đây sẽ là minh họa về cách một bộ nhớ file 8 byte
 
 
+| Address | Value |
+| :---:   | :---: |
+| 0x00    | AA   | 
+| 0x01    | 30   | 
+| 0x02    | 24   | 
+| 0x03    | 3C   | 
+| 0x04    | 5B   | 
+| 0x05    | 9H   | 
+| 0x06    | 12   | 
+| 0x07    | 7E   | 
+
 
 
