@@ -3,6 +3,9 @@
 - Là một hệ đếm dùng hai ký tự để biểu đạt một giá trị số bằng tổng số các lũy thừa của 2.
 - Biểu diễn bằng 0 và 1.
 - Được sắp xếp từ trái sang phải
+
+![image](https://github.com/TooBunReal/training-w1/assets/89735990/f6bbaf95-d849-441b-9f72-0edec8f65398)
+
   # Ứng Dụng
 - Tính toán số học
 - Lưu trữ dữ liệu (Binary File)
