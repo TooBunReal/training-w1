@@ -12,6 +12,10 @@
 - Xử lý logic (AND, OR và NOT)
 - Thực Thi Lệnh và Chương Trình
   # Mối Tương Quan Với Các Hệ Cơ Số 
+  
+  ![image](https://github.com/TooBunReal/training-w1/assets/89735990/de1e6426-aa28-4af4-a912-600d4691517b)
+
+  
 - Base2 -> Base10 
 
 ![image](https://github.com/TooBunReal/training-w1/assets/89735990/3ad9805c-4b78-4d53-9f11-be34ef330fef)
@@ -65,6 +69,10 @@
 | 0x05    | 9H   | 
 | 0x06    | 12   | 
 | 0x07    | 7E   | 
+
+![image](https://github.com/TooBunReal/training-w1/assets/89735990/9664f340-796e-494f-a1e1-c28469c348fe)
+
+
 
 
 
